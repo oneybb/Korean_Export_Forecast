@@ -15,8 +15,8 @@ To model South Korea's exports, external economic indicators were included, incl
 -Exchange Rates: Korean Won to Chinese Yuan (CNY) and US Dollar (USD) rates, which are crucial given South Korea's trade relationships.
 
 ## Statistical Models:
-###SARIMA and ARIMAX: 
+### SARIMA and ARIMAX: 
 These models incorporate seasonal patterns and exogenous variables to account for time-dependent and external factors influencing exports.
 
-###ML Models:
+### ML Models:
 Random Forest and XGBoost: Used for capturing non-linear relationships and interactions between variables, providing robust time series forecasts.
