@@ -18,5 +18,6 @@ To model South Korea's exports, external economic indicators were included, incl
 ### SARIMA and ARIMAX: 
 These models incorporate seasonal patterns and exogenous variables to account for time-dependent and external factors influencing exports.
 
-### ML Models:
-Random Forest and XGBoost: Used for capturing non-linear relationships and interactions between variables, providing robust time series forecasts.
+## ML Models:
+### Random Forest and XGBoost: 
+Used for capturing non-linear relationships and interactions between variables, providing robust time series forecasts.
